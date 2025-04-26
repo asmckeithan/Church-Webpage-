@@ -1,0 +1,10 @@
+h1 {
+    color : rgb(174, 36, 216) ;
+   font: 100px;
+    text-shadow: rgb(75, 163, 218) 2px 3px 5px;
+    text-align: center;
+    }
+    p {
+        size: 100px;
+        text-align: center;
+    }
